@@ -8,7 +8,7 @@
 <!-- Event card -->
 <style>
 .demo-card-event.mdl-card {
-  width: 269px;
+  width: 270px;
   height: 256px;
   background: #3E4EB8;  
   float:left;
